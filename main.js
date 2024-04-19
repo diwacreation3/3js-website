@@ -1,6 +1,6 @@
 import * as THREE from 'three';
-import "./style.css"
-import gsap from 'gsap';
+import "/style.css"
+import gsap from 'gsap/src';
 import { OrbitControls } from 'three/examples/jsm/Addons.js';
 
 //scene
